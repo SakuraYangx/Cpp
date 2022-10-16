@@ -1,0 +1,3 @@
+/mnt/d/Vscode/Project/Project02/CMakeFiles/main.dir
+/mnt/d/Vscode/Project/Project02/CMakeFiles/edit_cache.dir
+/mnt/d/Vscode/Project/Project02/CMakeFiles/rebuild_cache.dir
